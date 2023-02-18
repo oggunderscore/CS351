@@ -1,3 +1,6 @@
+// Threads Demonstration program written by Kevin Nguyen
+// OS Concepts
+
 #include <thread>
 #include <unistd.h>
 #include <sys/wait.h>
